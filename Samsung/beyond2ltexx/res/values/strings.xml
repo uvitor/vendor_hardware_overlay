@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_tspstate_threshold">10,32,30%,10,60</string>
+    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -93.14285714285714 V 40.57142857142857 H 0 V 0 Z @dp @right</string>
+    <string name="config_radio_access_family">GSM|CDMA|EVDO|WCDMA|LTE</string>
+    <string name="config_persistentDataPackageName">com.google.android.gms</string>
+    <string name="config_defaultNetworkRecommendationProviderPackage">com.google.android.gms</string>
+    <string name="config_defaultAccessibilityService">com.google.android.marvin.talkback/.TalkBackService</string>
+    <string name="config_defaultListenerAccessPackages">com.google.android.setupwizard:com.google.android.apps.restore</string>
+    <string name="config_defaultAutofillService">com.google.android.gms/.autofill.service.AutofillService</string>
+    <string name="config_defaultAssistantAccessPackage">com.google.android.ext.services</string>
+    <string name="harmful_app_warning_title">Play Protect warning</string>
+    <string name="config_defaultAssistantComponentName">com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService</string>
+</resources>
